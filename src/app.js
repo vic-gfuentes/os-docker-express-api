@@ -12,7 +12,7 @@ app.get("/", async (_req, res) => {
 });
 
 app.get("/items", (_req, res) => {
-  res.json({ status: true, message: "Fetched all items", data: items });
+  res.json({ status: true, message: "Items Index", data: items });
 });
 
 app.listen(PORT, () => console.log(`App listening at port ${PORT}`));

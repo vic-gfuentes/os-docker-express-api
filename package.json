@@ -1,7 +1,7 @@
 {
   "name": "express-api",
   "version": "1.0.0",
-  "description": "docker api example",
+  "description": "docker api example for the devops open space",
   "main": "app.js",
   "author": "Victor G Fuentes",
   "license": "MIT",

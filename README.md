@@ -14,3 +14,7 @@ Los ejercicios a realizar son:
 | Node    | Yarn     |
 |:------: | :-----:  |
 | 18.12.1 | 1.22.19  |
+
+### How to:
+- Build del proyecto: `yarn build` eso les genera un folder con la version final del app: `dist/app.js`
+- Ejecutar la versiona final: `yarn start`
